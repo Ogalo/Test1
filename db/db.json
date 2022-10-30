@@ -1,10 +1,14 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "name": "Auction",
-      "content": "18750"
-
+      "name": "Typhoid",
+      "content": "Conditions like inadequate sanitation, overcrowding, and social unrest favour the growth of typhoid. Typhoid fever is still widespread in developing nations, despite the fact that antibiotics have significantly decreased its prevalence in the developed world. It's possible that S paratyphi infections are becoming more common than S- typhi infections. This might be brought on by the immunologic immaturity of a particular population as well as the insufficient protection against these pathogens offered by the current Typhoid vaccinations. The gastroenteritis caused by non-Typhoidal strains is often mild and self-limiting.",
+      "id": 2
+    },
+    {
+      "name": "Typhoid",
+      "content": "Conditions like inadequate sanitation, overcrowding, and social unrest favour the growth of typhoid. Typhoid fever is still widespread in developing nations, despite the fact that antibiotics have significantly decreased its prevalence in the developed world. It's possible that S paratyphi infections are becoming more common than S typhi infections. This might be brought on by the immunologic immaturity of a particular population as well as the insufficient protection against these pathogens offered by the current Typhoid vaccinations. The gastroenteritis caused by non-Typhoidal strains is often mild and self-limiting.",
+      "id": 3
     }
   ]
 }
